@@ -1,0 +1,15 @@
+{
+  "name": "goorm's Repositories Listing",
+  "id": "dog.miruku.repositories",
+  "url": "https://cstria0106.github.io/vpm-repos/index.json",
+  "author": {
+    "name": "goorm",
+    "url": "https://github.com/cstria0106"
+  },
+  "description": "Listing of goorm's VRChat repositories",
+  "infoLink": {
+    "url": "https://github.com/cstria0106/vpm-repos",
+    "text": "View on GitHub"
+  },
+  "githubRepos": ["cstria0106/NonDestructiveCloset"]
+}
